@@ -6,4 +6,4 @@
 - 📫 You can contact me on Linkedin: https://www.linkedin.com/in/seyma-aybuke-ertekin/
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aybukeertekin)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aybukeertekin&hide=stars,prs&show_icons=true&theme=dark)]
